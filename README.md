@@ -1,6 +1,4 @@
 # Russian-Transliteration
-Converting between Cyrillic alphabet and Latin alphabet.
-
 Please note: This is a transliteration converter
 (to convert between Cyrillic and Latin alphabets back and forth), not a translator.
 
