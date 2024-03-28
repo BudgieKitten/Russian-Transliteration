@@ -7,7 +7,7 @@ Please note: This is a transliteration converter
 Switch: change between the two Alphabets
 
 Name: if false then е -> e, ё -> ё, й -> i, ю -> iu, я -> ia. Otherwise,
-е -> ye, ё -> yo, й -> j, ю -> yu, я -> ya. Also, if true, ий -> i, else ий -> y
+е -> ye, ё -> yo, й -> j, ю -> yu, я -> ya.
 
 Silent sound: if true then ь -> ', ъ -> ". Otherwise, both will be silent (empty string).
 Note: If silent sound is false, it will cause the transliteration to be inaccurate when converting words with
