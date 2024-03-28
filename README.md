@@ -16,3 +16,7 @@ Resizable: if true, then you can resize the window. If false, you can't resize t
 
 Choose text: Choose text to upload to convert to either Russian or Latin. Note: only files ending with .txt
 are accepted, *.txt.exe or *.txt.jpg or *.* are not accepted
+
+# Run file
+Requires JavaFX. In IntelliJ IDE, in New Project Generators choose JavaFX with language as Java and build as Maven.
+The main file containing the GUI is RusToLatinGUI.java
